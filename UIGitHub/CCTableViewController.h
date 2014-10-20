@@ -1,5 +1,5 @@
 //
-//  CCViewController.h
+//  CCTableViewController.h
 //  UIGitHub
 //
 //  Created by Mohamed GUEMBRI on 20/10/2014.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface CCViewController : UIViewController
+@interface CCTableViewController : UITableViewController
 
 @end
